@@ -1,0 +1,21 @@
+[
+  {"id": 1, "name": "Процессор Intel Xeon E5 2678 V3 LGA 2011-3", "img": "https://ae01.alicdn.com/kf/Hebc35fbbd4c14749b6721c1625cb88c10/Intel-Xeon-E5-2678-V3-2-5G.jpg", "price": 7193.13, "currency": "rub",
+    "timestamp": 1590563892000},
+  {"id": 2, "name": "X99 материнская плата LGA2011-V3 Профессиональный 4 канальный DDR4", "img": "https://ae01.alicdn.com/kf/H4b37b04ac198459ab7d193d4ea5996ed8/X99-LGA2011-V3-4-DDR4.jpg", "price": 5943.52, "currency": "rub",
+    "timestamp": 1590567492000},
+  {"id": 3, "name": "Видеокарта VEINEDA PCI-E GTX1050Ti GPU 4G DDR5", "img": "https://ae01.alicdn.com/kf/H9fba6e712239401eb33a66d768a4c5bfh/VEINEDA-PCI-E-GTX1050Ti-GPU.jpg", "price": 10428.54, "currency": "rub",
+    "timestamp": 1590571092000},
+  {"id": 4, "name": "VEINEDA Dimm Ram DDR4 16GB PC4-17000", "img": "https://ae01.alicdn.com/kf/H29fd1bc010f545d191407991dded2042w/VEINEDA-Dimm-Ram-DDR4-4GB-PC4-17000-Ram-ddr-4-2133-Intel-AMD-DeskPC.jpg", "price": 3512.95, "currency": "rub",
+    "timestamp": 1590574692000},
+  {"id": 5, "name": "Кулер LGA775 1151 115x1366, Поддержка Intel AMD", "img": "https://ae01.alicdn.com/kf/HLB1WLqbN7voK1RjSZFwq6AiCFXay/-.jpg", "price": 1694.40, "currency": "rub",
+    "timestamp": 1590578292000},
+  {"id": 6, "name": "SSD-накопитель KingSpec M.2 500 Гб", "img": "https://ae01.alicdn.com/kf/H81e172b503364ebab53883ab8bc6aa6dM/SSD-KingSpec-M-2-120-240-500-1.jpg", "price": 4797.62, "currency": "rub",
+    "timestamp": 1590581892000},
+  {"id": 7, "name": "2g ARCTIC термопаста", "img": "https://ae01.alicdn.com/kf/Hbac89bafcbdd4394b37671f723003ca7r/2g-4g-8g-20g-ARCTIC.jpg", "price": 467.42, "currency": "rub",
+    "timestamp": 1590585132000},
+  {"id": 8, "name": "Адаптер DisplayPort -> DVI", "img": "https://ae01.alicdn.com/kf/Hb8ea976b542047a6a869b00fca022fb44/DVI.png", "price": 729.62, "currency": "rub",
+    "timestamp": 1590591316000},
+  {"id": 9, "name": "Кабель DVI-DVI Baseus 24 + 1", "img": "https://ae01.alicdn.com/kf/H0cdcd67ac5f741e08f1fb605163dba0dH/DVI-DVI-Baseus-DVI-D-DVI-D-24-1.jpg", "price": 656.58, "currency": "rub",
+    "timestamp": 1590596536000
+  }
+]
